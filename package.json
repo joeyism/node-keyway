@@ -1,0 +1,33 @@
+{
+  "name": "keyway",
+  "version": "1.0.0",
+  "description": "A library that creates a keyway: the opposite of Object.keys",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/istanbul/lib/cli.js cover node_modules/mocha/bin/_mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeyism/node-keyway.git"
+  },
+  "keywords": [
+    "keyway",
+    "object",
+    "keys",
+    "key",
+    "array",
+    "reverse",
+    "reversekeys"
+  ],
+  "author": "Joey Sham <sham.joey@gmail.com> (http://www.joeyism.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeyism/node-keyway/issues"
+  },
+  "homepage": "https://github.com/joeyism/node-keyway#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "istanbul": "^0.3.17",
+    "mocha": "^2.2.5"
+  }
+}
