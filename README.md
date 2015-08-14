@@ -1,5 +1,7 @@
 # keyway
 
+[![Build Status](https://travis-ci.org/joeyism/node-keyway.svg?branch=master)](https://travis-ci.org/joeyism/node-keyway)
+
 Creating an object from an array, reverse of `Object.keys`
 
 ## Installation
